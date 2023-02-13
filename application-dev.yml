@@ -1,4 +1,9 @@
 
+spring:
+  application:
+    name: Config-Dev
+
+
 eureka:
   instances:
     prefer-ip-address: true
